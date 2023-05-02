@@ -5,7 +5,7 @@ The source code of Group 4's final project for CECS 451. In this project, we are
   This is the Jupyter Notebook which includes the implementation and the test run execution results
 
 # OO Connect-4 PY
-  This is only holds the implementation of the program. To run the program, follow the following commands
+  This only holds the implementation of the program. To run the program, follow the following commands
     
       pip install python
       python object_oriented_connect4.py
